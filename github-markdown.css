@@ -1,3 +1,7 @@
+bod {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 body .octicon {
   display: inline-block;
   fill: currentColor;
